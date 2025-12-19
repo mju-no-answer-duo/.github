@@ -2,7 +2,7 @@
 ---
 ## Study
 - ### Inflearn
-- #### Junbeom
--    java-introduction : Done
--    java-basic : Done
--    java-mid1 : Progressing
+  - #### Junbeom
+    -    java-introduction : Done
+    -    java-basic : Done
+    -    java-mid1 : Progressing
